@@ -3,7 +3,8 @@
 - 🌱 I have fundamental knowledge about C/C++ , Python and
       I’m currently learning database and SQL in order to reach big data and AI.
 - 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me ...
+- 📫 Really appreciate for your contributions
+  phamthaiquangnguyen0612@gmail.com
 
 <!---
 jeremy0612/jeremy0612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
