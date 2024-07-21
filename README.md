@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jeremy0612
-- 👀 I’m interested in embedded system , IoT which is my majority and AI/DA also
-- 🌱 I have fundamental knowledge about C/C++ , Python and
-      I’m currently learning database and SQL in order to reach big data and AI.
-- 💞️ I’m looking to collaborate on learning
+- 👀 I’m currenty interested in the combination of technologies and exploring new techniques and theories in CS such as AIoT, embedded AI, federrated learning, quantum machine learning, decentralized systems, edge intelligence, etc...
+Since my major in the college is embedded system & IoT, I have a deep understanding about the history of computer construction and development from the scratch. Having learned about computer arch, org, network lead me to a conclusion in the relation between hardware and software. Despite the root understanding, I usually do well in software  due to my practical background.
+- 🌱 I have fundamental knowledge about many programming languages but I mostly use Python and C/C++ for daily tasks. Eventhough I has coverred a wide essential skill set in Computer science and engineering: DE (database design, SQL, NoSQL, datapipeline, datawarehouse, ACID ); DevOps (linux, cloud computing, docker, microservices ); Dev (pyspark, OOP, SOLID, AL&DS ); MCU (atmega, 8051, esp-idf, raspi), I am not actually master in anything and need more practices. Even I am tending to try on AI/ML for a serious mind, my desire is to utilize ML with others technologies to create awesome solutions. So I am really willing to work with people from many roles (MLOps, DS,etc,..) and to fill the missing gap.
+- 💞️ I’m looking for collaboration in learning, researching and building useful technology products.
 - 📫 Really appreciate for your contributions
   phamthaiquangnguyen0612@gmail.com
 
